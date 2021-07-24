@@ -1,2 +1,5 @@
 .vscode
 pointer.exe
+pointer.dSYM
+pointer
+.DS_Store

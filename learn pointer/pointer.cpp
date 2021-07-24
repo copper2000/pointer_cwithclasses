@@ -70,7 +70,7 @@ int main(int argc, char const *argv[])
 {
     Human *women_union[5] =
         {
-            new Human("Lily", 22, 80, 1.65), 
+            new Human("Mia", 22, 80, 1.65), 
             new GoodGirl("Charlene", 18, 85, 1.7),
             new BadGirl("Chloe", 21, 90, 1.75),
             new CrazyGirl("Sophia", 19, 92, 1.6),
